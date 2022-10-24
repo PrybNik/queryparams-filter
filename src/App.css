@@ -1,0 +1,26 @@
+.app {
+  padding: 20px;
+}
+
+.query-container {
+  display: flex;
+  align-items: center;
+}
+
+.queries {
+  color: white;
+  background-color: gray;
+  border-radius: 5px;
+  width: fit-content;
+  padding: 8px;
+  margin: 16px 16px 16px 0;
+}
+
+.title {
+  border: 1px solid black;
+  padding: 16px;
+  border-radius: 5px;
+  width: fit-content;
+  margin: 16px 16px 16px 0;
+}
+
