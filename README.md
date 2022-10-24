@@ -1,4 +1,4 @@
-#URL filter
+# URL filter
 We want to build a page to render questions that can be filtered by topics such as what company and what position they refer to.
 
 We need the following filters implemented as query parameters in the URL:
